@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a2a0be0ba3e119408162e30258eb14b, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  itemName: "\u0411\u043B\u0430\u0441\u0442\u0435\u0440"
+  type: 0
+  icon: {fileID: 21300000, guid: a1af7946376cd6b449bcf14b42e37ec9, type: 3}
+  worldPrefab: {fileID: 2451468272145090155, guid: b6a23edca199967448b3c1177f91a939, type: 3}
+  handPrefab: {fileID: 2477217317812337424, guid: 3f2bc9cee2c20994a87a2934bc0a6b06, type: 3}
